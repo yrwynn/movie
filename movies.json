@@ -1,0 +1,36 @@
+{
+    "movie1" : {
+       "title" : "Fight Club",
+       "director" : "BraddPitT",
+       "genre" : "Action",
+       "IMDB": "https://www.imdb.com/title/tt0137523/?ref_=hm_tpks_tt_i_3_pd_tp1_pbr_ic"
+    },
+
+    "movie2" : {
+        "title" : "Inception",
+        "director" : "Leonardo DiCaprio",
+        "genre" : "Sci-fi/Adventure",
+        "IMDB": "https://www.imdb.com/title/tt1375666/?ref_=hm_tpks_tt_i_1_pd_tp1_pbr_ic"
+     },
+
+     "movie3" : {
+        "title" : "Batman v Superman: Dawn of Justice",
+        "director" : "Zack Snyder",
+        "genre" : "Action/Adventure",
+        "IMDB": "https://www.imdb.com/title/tt2975590/"
+     },
+
+     "movie4" : {
+        "title" : "Spider-Man: No Way Home",
+        "director" : "Jon Watts",
+        "genre" : "Action/Adventure",
+        "IMDB": "https://www.imdb.com/title/tt10872600/"
+     },
+     
+     "movie5" : {
+        "title" : "Justice League",
+        "director" : "Zack Snyder",
+        "genre" : "Action/Adventure",
+        "IMDB": "https://www.imdb.com/title/tt0974015/"
+     }
+}
